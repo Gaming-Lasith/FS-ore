@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to right, #d5c3e7, #2575fc);
+}
+
+.card {
+  background-color: #fff;
+}
+
+input:focus {
+  box-shadow: none !important;
+  border-color: #2575fc;
+}
+
+
+.custom-navbar {
+  background-color: #1e1e2f !important; /* Dark blue or any color */
+}
